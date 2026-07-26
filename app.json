@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "E-Learning-K",
-    "slug": "e-learning-kampus",
+    "slug": "aziii",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,7 +34,7 @@
         "projectId": "cdf59fc4-239a-4b09-af8b-3c508a22095e"
       }
     },
-    "owner": "aziahimsyak1s-team",
+    "owner": "aziahimsyak1s-team"
     "plugins": [
       "expo-font"
     ]
