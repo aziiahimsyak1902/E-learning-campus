@@ -69,19 +69,19 @@ Scan QR Code dengan Expo Go di HP.
 
 ## 📦 Download APK
 
-[Download APK terbaru](https://expo.dev/accounts/idhos/projects/e-learning-kampus/builds/ad96e8f3-0a5a-4102-84a0-7ad87e3ce322)
+[Download APK terbaru]( )
 
 ---
 
 ## 🌐 Expo Snack
 
-[Buka di Expo Snack](https://snack.expo.dev/@idhos/e-learning-kampus)
+[Buka di Expo Snack]( )
 
 ---
 
 ## 👤 Developer
 
-**Idho Jonathan Sembiring** | NIM 243303621251 | Kelas 4 Pagi A
+** Azi Ahimsyak** | NIM 243303621216 | Kelas 4 Pagi A
 
 Universitas Prima Indonesia — Prodi Sistem Informasi
 Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
