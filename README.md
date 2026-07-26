@@ -12,9 +12,8 @@
 ## 📸 Screenshots
 
 | Progres Belajar | Icon Aplikasi di HP |
-|:---:|:---:|
-| <a href="https://ibb.co.com/LDP6Xx1z"><img src="https://i.ibb.co.com/j95GPyDv/Whats-App-Image-2026-07-26-at-08-42-04.jpg" alt="Whats-App-Image-2026-07-26-at-08-42-04" border="0"></a>
-<a href="https://ibb.co.com/CNfC807"><img src="https://i.ibb.co.com/8THvs85/Whats-App-Image-2026-07-26-at-10-47-45.jpg" alt="Whats-App-Image-2026-07-26-at-10-47-45" border="0"></a>
+|: <a href="https://ibb.co.com/LDP6Xx1z"><img src="https://i.ibb.co.com/j95GPyDv/Whats-App-Image-2026-07-26-at-08-42-04.jpg" alt="Whats-App-Image-2026-07-26-at-08-42-04" border="0"></a>:|:<a href="https://ibb.co.com/CNfC807"><img src="https://i.ibb.co.com/8THvs85/Whats-App-Image-2026-07-26-at-10-47-45.jpg" alt="Whats-App-Image-2026-07-26-at-10-47-45" border="0"></a>:|
+| 
 
 ## 🎥 Demo Video
 
