@@ -19,7 +19,7 @@
 | Fitur | Video |
 |-------|-------|
 | Login (input email & password) | https://screenapp.io/app/v/3suA9Xtiya
-| Home — Daftar Mata Kuliah (FlatList) | https://github.com/user-attachments/assets/ae71c9b3-ca40-4369-9de9-d77e41c2be07 |
+| Home — Daftar Mata Kuliah (FlatList) | https://github.com/user-attachments/assets/be5f8a73-2f9d-484b-b394-7f3fda1d2140
 | Edit Nama & Nickname Profil | https://github.com/user-attachments/assets/2fde7832-45fd-4f50-9bed-a5770291fe35 |
 | Ubah Foto Profil | https://github.com/user-attachments/assets/4b26d3fc-2b2d-455d-8f5f-7f81137b152d |
 | Pengumpulan Tugas (Upload Foto) | https://github.com/user-attachments/assets/cbbdbbfa-1bc0-4aa3-abcc-8103dc4e4579 |
