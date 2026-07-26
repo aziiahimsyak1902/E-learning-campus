@@ -18,11 +18,11 @@
 
 | Fitur | Video |
 |-------|-------|
-| Login (input email & password) | https://screenapp.io/app/v/3suA9Xtiya
+| Login (input email & password) | https://github.com/user-attachments/assets/f3983352-85ae-4238-b83d-a4cf70408111
 | Home — Daftar Mata Kuliah (FlatList) | https://github.com/user-attachments/assets/be5f8a73-2f9d-484b-b394-7f3fda1d2140
-| Edit Nama & Nickname Profil | https://github.com/user-attachments/assets/2fde7832-45fd-4f50-9bed-a5770291fe35 |
-| Ubah Foto Profil | https://github.com/user-attachments/assets/4b26d3fc-2b2d-455d-8f5f-7f81137b152d |
-| Pengumpulan Tugas (Upload Foto) | https://github.com/user-attachments/assets/cbbdbbfa-1bc0-4aa3-abcc-8103dc4e4579 |
+| Edit Nama & Nickname Profil | https://github.com/user-attachments/assets/b862ae9d-e9e8-4dd1-bb2c-c62851f5fcaa |
+| Ubah Foto Profil | https://github.com/user-attachments/assets/0d3b3c98-7c22-44d7-8407-4c39e5dd591f |
+| Pengumpulan Tugas (Upload Foto) | https://github.com/user-attachments/assets/e8fc4b40-0f38-4ab9-bd42-e5e1fffd1fe6 |
 | Membuka Aplikasi di HP | https://github.com/user-attachments/assets/d53483a2-6c46-4b4b-a22a-95348ebf6b1b |
 
 ---
