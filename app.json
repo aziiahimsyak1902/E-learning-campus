@@ -31,10 +31,10 @@
     },
     "extra": {
       "eas": {
-        "projectId": "0795e447-1522-495e-8fa0-ba86d72f7f32"
+        "projectId": "cdf59fc4-239a-4b09-af8b-3c508a22095e"
       }
     },
-    "owner": "idhos",
+    "owner": "Azi ahimsyak",
     "plugins": [
       "expo-font"
     ]
