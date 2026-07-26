@@ -14,6 +14,7 @@
 | Progres Belajar | Icon Aplikasi di HP |
 |:---:|:---:|
 | <a href="https://ibb.co.com/LDP6Xx1z"><img src="https://i.ibb.co.com/j95GPyDv/Whats-App-Image-2026-07-26-at-08-42-04.jpg" alt="Whats-App-Image-2026-07-26-at-08-42-04" border="0"></a>
+<a href="https://ibb.co.com/CNfC807"><img src="https://i.ibb.co.com/8THvs85/Whats-App-Image-2026-07-26-at-10-47-45.jpg" alt="Whats-App-Image-2026-07-26-at-10-47-45" border="0"></a>
 
 ## 🎥 Demo Video
 
@@ -24,9 +25,13 @@
 | Edit Nama & Nickname Profil | https://github.com/user-attachments/assets/479df383-b3ab-4f44-9f18-50407f4a67ae |
 | Ubah Foto Profil | https://github.com/user-attachments/assets/c97829be-4e7b-4e81-bb23-5f5e9f1c6e3a |
 | Pengumpulan Tugas (Upload Foto) | https://github.com/user-attachments/assets/2daeabc1-604c-4156-a474-e0585d5dddb8 |
-| Membuka Aplikasi di HP |  |
+| Membuka Aplikasi di HP | https://github.com/user-attachments/assets/5821281c-b607-4307-9ac8-53ce736a19ec |
 
 ---
+
+
+
+
 
 ## ✨ Fitur Utama
 
