@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/740fd02c-1966-4276-992b-abd40e93eaac
 # E-Learning Campus — Domain: E-Learning
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -18,12 +20,12 @@
 
 | Fitur | Video |
 |-------|-------|
-| Login (input email & password) | https://github.com/user-attachments/assets/f3983352-85ae-4238-b83d-a4cf70408111
-| Home — Daftar Mata Kuliah (FlatList) | https://github.com/user-attachments/assets/be5f8a73-2f9d-484b-b394-7f3fda1d2140
-| Edit Nama & Nickname Profil | https://github.com/user-attachments/assets/b862ae9d-e9e8-4dd1-bb2c-c62851f5fcaa |
-| Ubah Foto Profil | https://github.com/user-attachments/assets/0d3b3c98-7c22-44d7-8407-4c39e5dd591f |
-| Pengumpulan Tugas (Upload Foto) | https://github.com/user-attachments/assets/e8fc4b40-0f38-4ab9-bd42-e5e1fffd1fe6 |
-| Membuka Aplikasi di HP | https://github.com/user-attachments/assets/d53483a2-6c46-4b4b-a22a-95348ebf6b1b |
+| Login (input email & password) | https://github.com/user-attachments/assets/70e0ea8b-99be-4231-b2a9-ab1eed4e72c2
+| Home — Daftar Mata Kuliah (FlatList) | https://github.com/user-attachments/assets/e5bcbd2e-f62f-4d8b-92a7-f3d81b7c843b
+| Edit Nama & Nickname Profil | https://github.com/user-attachments/assets/479df383-b3ab-4f44-9f18-50407f4a67ae |
+| Ubah Foto Profil | https://github.com/user-attachments/assets/c97829be-4e7b-4e81-bb23-5f5e9f1c6e3a |
+| Pengumpulan Tugas (Upload Foto) | https://github.com/user-attachments/assets/2daeabc1-604c-4156-a474-e0585d5dddb8 |
+| Membuka Aplikasi di HP |  |
 
 ---
 
