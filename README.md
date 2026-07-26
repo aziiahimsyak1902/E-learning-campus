@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/740fd02c-1966-4276-992b-abd40e93eaac
 # E-Learning Campus — Domain: E-Learning
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
